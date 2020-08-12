@@ -1,2 +1,4 @@
 # git-demo
-A simple demo git repository
+## Introduction
+## Purpose
+## How To Contribute
