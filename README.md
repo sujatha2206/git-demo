@@ -7,6 +7,6 @@ for git training
 ## Deployment
 deployo n ay webs eerver
 ## How To Contribute
-
+check fork and apply changes
 
 @Copyright 2020
