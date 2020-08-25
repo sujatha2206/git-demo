@@ -1,4 +1,7 @@
 Test Git Quick Start demo
 I changed to chcek branch
 <!-- copyright branch test-->
+adding line before rebase confluct in master,adding line aftererebase confluct in master
+adding line before rebase confluct in master
+
 adding line before rebase confluct in master
