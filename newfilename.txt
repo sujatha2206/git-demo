@@ -5,3 +5,4 @@ adding for auto merges(adding to resolve conflcts in master),hi
 Addressing issues in merge conflicts using mergetool, 
 
 adding line for rebase in master
+adding for stash chnages
