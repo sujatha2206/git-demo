@@ -9,7 +9,7 @@ adding more troubles
 adding minor chnages
 
 
-
+add this line to chcek diff between pull and fetch in remote repo
 adding this for stash chnages
 hjfjgjhj
 stash
