@@ -15,5 +15,3 @@ hjfjgjhj
 stash
 dding line in bigtrouble branch
 hgvfhjgv
-
-git rest
