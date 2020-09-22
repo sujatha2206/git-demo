@@ -6,3 +6,5 @@ Addressing issues in merge conflicts using mergetool,
 
 adding line for rebase in master
 adding for stash chnages
+diff betewween pull and fetch   
+we can chcek here
