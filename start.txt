@@ -15,3 +15,8 @@ hjfjgjhj
 stash
 dding line in bigtrouble branch
 hgvfhjgv
+
+
+git reset commitid
+git commit -am "added for rest"
+git push -f
