@@ -17,3 +17,5 @@ dding line in bigtrouble branch
 hgvfhjgv
 git revert commithash
 git revert oldcommit..newcommit
+
+git revert checking
