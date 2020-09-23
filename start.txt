@@ -17,3 +17,4 @@ dding line in bigtrouble branch
 hgvfhjgv
 
 git rest
+git reset --hard
