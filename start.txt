@@ -15,6 +15,9 @@ hjfjgjhj
 stash
 dding line in bigtrouble branch
 hgvfhjgv
+<<<<<<< HEAD
 
 git rest
 git reset --hard
+=======
+>>>>>>> parent of 1821cff... Revert "Revert "restting""
