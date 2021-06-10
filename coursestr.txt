@@ -1,0 +1,29 @@
+Section 1: Introduction
+8 / 8|21min
+Section 2: Git Installation
+3 / 3|9min
+Section 3: Git Quick Start
+3 / 3|16min
+Section 4: Text Editor Installation
+6 / 6|18min
+Section 5: Basic Git Commands
+15 / 16|1hr 42min
+Section 6: Visual Merge/Diff Tool Installation
+7 / 7|18min
+Section 7: Comparisons
+8 / 8|22min
+Section 8: Branching and Merging
+6 / 6|35min
+Section 9: Rebasing
+6 / 6|24min
+Section 10: Stashing
+6 / 6|27min
+Section 11: Tagging
+7 / 7|22min
+Section 12: Bonus: Office Hour Sessions
+6 / 6|42min
+Section 13: Updates and Errata
+1 / 1|5min
+Section 14: Bonus: Resources and Special
+Offers
+1 / 1|5min
